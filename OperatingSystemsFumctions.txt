@@ -1,1 +1,2 @@
 operating system functions. I believe operating system functions begin with teh PC booting up psat teh bios allowing a user interface to help the user navigate the system and staorge. from creatig a word document to playing a game. 
+Other functions include diagnostics, apps, and a desktop interface. Support for input like a mouse and keybaord. enhanced security through an antivirus and firewall. 
